@@ -1,0 +1,20 @@
+# Java compiler output
+**/out/
+**/*.class
+
+# IDE configurations
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files & logs
+*.log
+*.tmp
+tmp/
